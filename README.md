@@ -1,22 +1,22 @@
 # vim-colors
 
-Modern rewrites of Vim's default colorschemes.
+Modern rewrite of Vim's default colorschemes using [RNB](https://gist.github.com/romainl/5cd2f4ec222805f49eca).
 
-* `r-blue.erb`
-* `r-darkblue.erb`
-* `r-default.erb`
-* `r-delek.erb`
-* `r-desert.erb`
-* `r-elflord.erb`
-* `r-evening.erb`
-* `r-industry.erb`
-* `r-koehler.erb`
-* `r-morning.erb`
-* `r-murphy.erb`
-* `r-pablo.erb`
-* `r-peachpuff.erb`
-* `r-ron.erb`
-* `r-shine.erb`
-* `r-slate.erb`
-* `r-torte.erb`
-* `r-zellner.erb`
+* `blue.vim`      → `r-blue.erb`      → `r-blue.vim`
+* `darkblue.vim`  → `r-darkblue.erb`  → `r-darkblue.vim`
+* `default.vim`   → `r-default.erb`   → `r-default.vim`
+* `delek.vim`     → `r-delek.erb`     → `r-delek.vim`
+* `desert.vim`    → `r-desert.erb`    → `r-desert.vim`
+* `elflord.vim`   → `r-elflord.erb`   → `r-elflord.vim`
+* `evening.vim`   → `r-evening.erb`   → `r-evening.vim`
+* `industry.vim`  → `r-industry.erb`  → `r-industry.vim`
+* `koehler.vim`   → `r-koehler.erb`   → `r-koehler.vim`
+* `morning.vim`   → `r-morning.erb`   → `r-morning.vim`
+* `murphy.vim`    → `r-murphy.erb`    → `r-murphy.vim`
+* `pablo.vim`     → `r-pablo.erb`     → `r-pablo.vim`
+* `peachpuff.vim` → `r-peachpuff.erb` → `r-peachpuff.vim`
+* `ron.vim`       → `r-ron.erb`       → `r-ron.vim`
+* `shine.vim`     → `r-shine.erb`     → `r-shine.vim`
+* `slate.vim`     → `r-slate.erb`     → `r-slate.vim`
+* `torte.vim`     → `r-torte.erb`     → `r-torte.vim`
+* `zellner.vim`   → `r-zellner.erb`   → `r-zellner.vim`
